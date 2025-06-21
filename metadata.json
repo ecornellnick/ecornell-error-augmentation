@@ -1,0 +1,8 @@
+{
+  "name": "eCornell Custom Error Explanation with guides filtering, tooltip removed",
+  "type": "helper",
+  "properties": {
+    "user_type": "all", 
+    "component": "all"
+  }
+}
